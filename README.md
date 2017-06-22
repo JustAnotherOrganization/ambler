@@ -1,5 +1,6 @@
 # ambler
-something I started awhile ago but forgot about
+Something I started awhile ago but forgot about   
+                                    - IngCr3at1on 2017
 
 # License
 Copyright 2017 Just Another Organization
